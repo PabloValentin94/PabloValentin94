@@ -2,11 +2,11 @@
   
 <a href="https://github.com/PabloValentin94">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100%:B3CDE0,80%:6497B1,60%:005B96,40%:03396C,20%:011F4B&height=170&section=header&text=Pablo Valentin&desc=Desenvolvimento de Sistemas&fontSize=45&fontColor=FFFF00&animation=twinkling&fontAlignY=27&descAlignY=50&stroke=000&strokeWidth=2.7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100%:B3CDE0,80%:6497B1,60%:005B96,40%:03396C,20%:011F4B&height=170&section=header&text=Pablo.Valentin&desc=Desenvolvimento_de_Sistemas&fontSize=45&fontColor=FFFF00&animation=twinkling&fontAlignY=27&descAlignY=50&stroke=000&strokeWidth=2.7"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PabloValentin94&show_icons=true&bg_color=30,011F4B,03396C,005B96,6497B1,B3CDE0&title_color=ffff00&text_color=ffffff&icon_color=ffff00&hide_border=true&count_private=true&include_all_commits=false"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloValentin94&layout=compact&bg_color=30,011F4B,03396C,005B96,6497B1,B3CDE0&title_color=ffff00&text_color=ffffff&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloValentin94&layout=compact&bg_color=30,011F4B,03396C,005B96,6497B1,B3CDE0&title_color=ffff00&text_color=ffffff&hide_border=true&langs_count=6"/>
   
 </a>
 
@@ -73,7 +73,7 @@ Escola: **Etec Joaquim Ferreira do Amaral**. Para mais informações acesse: [ht
 
 <a href="https://github.com/PabloValentin94">
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100%:B3CDE0,80%:6497B1,60%:005B96,40%:03396C,20%:011F4B&height=125&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100%:B3CDE0,80%:6497B1,60%:005B96,40%:03396C,20%:011F4B&height=125&section=footer"/>
   
 </a>
 
