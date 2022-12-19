@@ -58,6 +58,7 @@
 <a href="mailto:pablo23032006@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a href="https://www.linkedin.com/in/pablo-valentin/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:pablo.valentin@etec.sp.gov.br"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
+<a href="https://replit.com/@PabloValentin2"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/> </a>
 
 ##
 
