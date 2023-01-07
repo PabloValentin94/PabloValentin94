@@ -39,9 +39,10 @@
 <img align="center" alt="Pablo-Canva" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img align="center" alt="Pablo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="center" alt="Pablo-Jupyter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+<img align="center" alt="Pablo-Pycharm" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+</br>
+</br>
 <img align="center" alt="Pablo-Visual_Studio" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-</br>
-</br>
 <img align="center" alt="Pablo-Visual_Studio_Code" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="center" alt="Pablo-Windows" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 
