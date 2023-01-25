@@ -10,7 +10,7 @@
   
 </a>
 
-##
+#
 
 <a href="https://github.com/PabloValentin94">
 
@@ -61,13 +61,18 @@
 <a href="mailto:pablo.valentin@etec.sp.gov.br"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
 <a href="https://replit.com/@PabloValentin2"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/> </a>
 
-##
+#
 
 <a href="https://github.com/PabloValentin94">
 
 <img width="300" src="https://user-images.githubusercontent.com/95161515/183267313-a8eacc75-3473-41a0-a0fa-4c07d10470d6.png"/>
 
 </a>
+
+#
+
+</br>
+<img src="https://user-images.githubusercontent.com/95161515/214477218-28c5c215-706b-445e-86c4-13eb1d706609.png"/>
   
 #
 
