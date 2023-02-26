@@ -74,7 +74,16 @@
 <a href="https://github.com/PabloValentin94">
 
 </br>
-<img src="https://user-images.githubusercontent.com/95161515/214477218-28c5c215-706b-445e-86c4-13eb1d706609.png"/>
+<img src="https://user-images.githubusercontent.com/95161515/221391598-529c63b2-f150-4970-97ab-445d3eccdf8d.png"/>
+
+</a>
+
+#
+
+<a href="https://github.com/PabloValentin94">
+
+</br>
+<img src="https://user-images.githubusercontent.com/95161515/221391611-06e9ca43-9aca-43f7-92ff-039479875c58.png"/>
 
 </a>
   
