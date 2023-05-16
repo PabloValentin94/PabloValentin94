@@ -12,6 +12,25 @@
 
 #
 
+<a href="https://pablovalentin94.github.io">
+
+</br>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=PabloValentin94&bg_color=050F2C&title_color=FFFF00&color=FFFFFF&line=FFFFFF&point=FFFF00&area=true&area_color=FFFF00&radius=16">
+
+</a>
+
+#
+
+<a href="https://pablovalentin94.github.io">
+
+<img width="315" src="https://user-images.githubusercontent.com/95161515/183267313-a8eacc75-3473-41a0-a0fa-4c07d10470d6.png"/>
+  
+<img src="https://github-profile-trophy.vercel.app/?username=PabloValentin94&theme=algolia&row=2&column=3&title=Commit,Repository,Follower,Star,PR,Issue&margin-w=15&margin-h=15">
+
+</a>
+
+#
+
 <a href="https://github.com/PabloValentin94">
 
 ### Estudos:
@@ -63,14 +82,6 @@
 
 #
 
-<a href="https://pablovalentin94.github.io">
-
-<img width="300" src="https://user-images.githubusercontent.com/95161515/183267313-a8eacc75-3473-41a0-a0fa-4c07d10470d6.png"/>
-
-</a>
-
-#
-
 <a href="https://github.com/PabloValentin94">
 
 </br>
@@ -86,7 +97,7 @@
 <img src="https://user-images.githubusercontent.com/95161515/221391611-06e9ca43-9aca-43f7-92ff-039479875c58.png"/>
 
 </a>
-  
+
 #
 
 Escola: **Etec Joaquim Ferreira do Amaral**. Para mais informações acesse: [http://www.etecjau.com.br/etecjau/](http://www.etecjau.com.br/etecjau/)
