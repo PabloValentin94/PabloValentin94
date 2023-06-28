@@ -16,10 +16,10 @@
   
 ### Nível de Desempenho:
 
-<!--</br>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=PabloValentin94&bg_color=050F2C&custom_title=Pablo%20Valentin's%20Contribution%20Graphic%20in%20the%20Period%20of%20one%20Month%20(Last%2030/31%20days.):&title_color=FFFF00&color=FFFFFF&line=FFFFFF&point=FFFF00&area=true&area_color=FFFF00&radius=16">
+</br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloValentin94&bg_color=050F2C&custom_title=Pablo%20Valentin's%20Contribution%20Graphic%20in%20the%20Period%20of%20one%20Month%20(Last%2030/31%20days.):&title_color=FFFF00&color=FFFFFF&line=FFFFFF&point=FFFF00&area=true&area_color=FFFF00&radius=16">
   
-</br>-->
+</br>
 </br>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=PabloValentin94&theme=algolia&row=1&column=6&title=Commit,Repository,Follower,Star,PR,Issue&margin-w=15&margin-h=0">
 
