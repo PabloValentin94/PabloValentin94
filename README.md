@@ -91,13 +91,13 @@
 
 <a href="https://github.com/PabloValentin94">
 
-### Contribuições no Período de um Ano (Últimos 12 Meses.):
+<!--### Contribuições no Período de um Ano (Últimos 12 Meses.):
 
 <img src="https://github.com/PabloValentin94/PabloValentin94/blob/output/github-contribution-grid-snake.svg">
   
 </a>
 
-#
+#-->
 
 <a href="https://github.com/PabloValentin94">
 
