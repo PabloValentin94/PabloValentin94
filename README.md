@@ -12,9 +12,9 @@
 
 #
 
-<a href="https://github.com/PabloValentin94">
-  
 ### Nível de Desempenho:
+
+<a href="https://github.com/PabloValentin94">
 
 </br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloValentin94&bg_color=050F2C&custom_title=Gráfico%20de%20Contribuições%20de%20Pablo%20Valentin%20no%20Período%20de%20um%20Mês%20(Últimos%2030/31%20dias.):&title_color=FFFF00&color=FFFFFF&line=FFFFFF&point=FFFF00&area=true&area_color=FFFF00&radius=16">
@@ -37,9 +37,9 @@
 
 #
 
-<a href="https://github.com/PabloValentin94">
-
 ### Estudos:
+
+<a href="https://github.com/PabloValentin94">
 
 <img align="center" alt="Pablo-Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 <img align="center" alt="Pablo-Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
@@ -56,9 +56,9 @@
 
 </a>
 
-<a href="https://github.com/PabloValentin94">
-
 ### Ferramentas:
+
+<a href="https://github.com/PabloValentin94">
 
 <img align="center" alt="Pablo-Anaconda" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/>
 <img align="center" alt="Pablo-Canva" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
@@ -71,9 +71,9 @@
 <img align="center" alt="Pablo-Visual_Studio_Code" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="center" alt="Pablo-Windows" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 
-</a>
-
 ### Redes Sociais e Meios de Contato:
+
+</a>
 
 <a href="https://www.facebook.com/pablo.valentim.14"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
 <a href="https://www.instagram.com/pablovalentin2429"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
