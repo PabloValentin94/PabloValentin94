@@ -12,31 +12,6 @@
 
 #
 
-### Nível de Desempenho:
-
-<a href="https://github.com/PabloValentin94">
-
-</br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloValentin94&bg_color=050F2C&custom_title=Gráfico%20de%20Contribuições%20de%20Pablo%20Valentin%20no%20Período%20de%20um%20Mês%20(Últimos%2030/31%20dias.):&title_color=FFFF00&color=FFFFFF&line=FFFFFF&point=FFFF00&area=true&area_color=FFFF00&radius=16">
-  
-</br>
-</br>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=PabloValentin94&theme=algolia&row=1&column=6&title=Commit,Repository,Follower,Star,PR,Issue&margin-w=15&margin-h=0">
-
-</a>
-
-#
-
-<a href="https://github.com/PabloValentin94">
-  
-</br>
-<!-- Nesse contexto, "kbd" está sendo usado para fazer uma espécie de moldura, mas seu real uso não é este. -->
-<kbd> <img width="350" src="https://user-images.githubusercontent.com/95161515/183267313-a8eacc75-3473-41a0-a0fa-4c07d10470d6.png"/> </kbd>
-
-</a>
-
-#
-
 ### Estudos:
 
 <a href="https://github.com/PabloValentin94">
@@ -86,6 +61,31 @@
 <a href="https://www.linkedin.com/in/pablo-valentin/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:pablo.valentin@etec.sp.gov.br"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
 <a href="https://replit.com/@PabloValentin2"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/> </a>
+
+#
+
+### Nível de Desempenho:
+
+<a href="https://github.com/PabloValentin94">
+
+</br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloValentin94&bg_color=050F2C&custom_title=Gráfico%20de%20Contribuições%20de%20Pablo%20Valentin%20no%20Período%20de%20um%20Mês%20(Últimos%2030/31%20dias.):&title_color=FFFF00&color=FFFFFF&line=FFFFFF&point=FFFF00&area=true&area_color=FFFF00&radius=16">
+  
+</br>
+</br>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=PabloValentin94&theme=algolia&row=1&column=6&title=Commit,Repository,Follower,Star,PR,Issue&margin-w=15&margin-h=0">
+
+</a>
+
+#
+
+<a href="https://github.com/PabloValentin94">
+  
+</br>
+<!-- Nesse contexto, "kbd" está sendo usado para fazer uma espécie de moldura, mas seu real uso não é este. -->
+<kbd> <img width="350" src="https://user-images.githubusercontent.com/95161515/183267313-a8eacc75-3473-41a0-a0fa-4c07d10470d6.png"/> </kbd>
+
+</a>
 
 <!--#
 
