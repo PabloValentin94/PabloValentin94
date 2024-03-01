@@ -16,14 +16,12 @@
 
 <a href="https://github.com/PabloValentin94">
 
-<img align="center" alt="Pablo-Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<img align="center" alt="Pablo-Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img align="center" alt="Pablo-CSharp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="center" alt="Pablo-CSS3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="Pablo-Net.Core" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-</br>
-</br>
 <img align="center" alt="Pablo-HTML5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+</br>
+</br>
 <img align="center" alt="Pablo-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="Pablo-PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="center" alt="Pablo-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -35,20 +33,17 @@
 
 <a href="https://github.com/PabloValentin94">
 
-<img align="center" alt="Pablo-Anaconda" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/>
 <img align="center" alt="Pablo-Canva" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img align="center" alt="Pablo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="center" alt="Pablo-Jupyter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-<img align="center" alt="Pablo-Pycharm" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
-</br>
-</br>
 <img align="center" alt="Pablo-Visual_Studio" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="center" alt="Pablo-Visual_Studio_Code" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="center" alt="Pablo-Windows" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 
+</a>
+
 ### Redes Sociais e Meios de Contato:
 
-</a>
+<a href="https://github.com/PabloValentin94">
 
 <a href="https://www.facebook.com/pablo.valentim.14"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
 <a href="https://www.instagram.com/pablovalentin2429"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
@@ -61,6 +56,8 @@
 <a href="https://www.linkedin.com/in/pablo-valentin/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:pablo.valentin@etec.sp.gov.br"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
 <a href="https://replit.com/@PabloValentin2"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/> </a>
+
+</a>
 
 #
 
@@ -79,6 +76,8 @@
 
 #
 
+<a href="https://github.com/PabloValentin94">
+
 </br>
 <img src="https://github.com/PabloValentin94/PabloValentin94/assets/95161515/d147bb07-1dac-4ed6-acfb-8b60ff2f0d35"/>
 
@@ -93,18 +92,6 @@
 <kbd> <img width="350" src="https://github.com/PabloValentin94/PabloValentin94/assets/95161515/760a4bbe-508b-4f4f-82cc-29a3ced6c49f"/> </kbd>
 
 </a>
-
-<!--#
-
-<a href="https://github.com/PabloValentin94">
-
-### Contribuições no Período de um Ano (Últimos 12 Meses.):
-
-<img src="https://github.com/PabloValentin94/PabloValentin94/blob/output/github-contribution-grid-snake.svg">
-  
-</a>
-
-#-->
 
 <a href="https://github.com/PabloValentin94">
   
