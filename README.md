@@ -87,6 +87,21 @@
 
 <a href="https://github.com/PabloValentin94">
   
+<picture>
+  
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PabloValentin94/PabloValentin94/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PabloValentin94/PabloValentin94/output/github-contribution-grid-snake.svg">
+  
+  <img width="100%" height="100%" alt="Snake-Animation" src="https://raw.githubusercontent.com/PabloValentin94/PabloValentin94/output/github-contribution-grid-snake.svg">
+  
+</picture>
+
+</a>
+
+#
+
+<a href="https://github.com/PabloValentin94">
+  
 </br>
 <!-- Nesse contexto, "kbd" está sendo usado para fazer uma espécie de moldura, mas seu real uso não é este. -->
 <kbd> <img width="350" src="https://github.com/PabloValentin94/PabloValentin94/assets/95161515/760a4bbe-508b-4f4f-82cc-29a3ced6c49f"/> </kbd>
