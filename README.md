@@ -103,6 +103,10 @@
 #
 
 <a href="https://github.com/PabloValentin94">
+
+</br>
+
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPabloValentin94&s=75&c=FFFF00&bg=000000&no=1&ff=digi&tb=Visitantes%3A+&ta=+pessoas"/>
   
 <picture>
   
