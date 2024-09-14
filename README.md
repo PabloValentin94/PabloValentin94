@@ -45,13 +45,10 @@
 
 <img align="center" alt="Pablo-Canva" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img align="center" alt="Pablo-Figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-</br>
-</br>
 <img align="center" alt="Pablo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="center" alt="Pablo-GitHub" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</br>
+</br>
 <img align="center" alt="Pablo-Visual_Studio" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-</br>
-</br>
 <img align="center" alt="Pablo-Visual_Studio_Code" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="center" alt="Pablo-Windows" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 
@@ -66,20 +63,19 @@
 
 <a href="https://github.com/PabloValentin94">
 
-<a href="https://www.facebook.com/pablo.valentim.14"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
-<a href="https://www.instagram.com/pablovalentin2429"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="https://www.linkedin.com/in/pablo-valentin/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.facebook.com/pablo.valentim.14"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge"/> </a>
+<a href="https://www.instagram.com/pablovalentin2429"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"/> </a>
+<a href="https://www.linkedin.com/in/pablo-valentin/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/> </a>
 
-<a href="http://m.me/pablo.valentim.14"> <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/> </a>
-<a href="https://twitter.com/PabloVa61831035"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://contate.me/PabloValentin"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
+<a href="http://m.me/pablo.valentim.14"> <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge"/> </a>
+<a href="https://contate.me/PabloValentin"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge"/> </a>
 
-<a href="https://www.dio.me/users/pablo23032006"> <img src="https://img.shields.io/badge/Digital%20Innovation%20One-FF007F?style=for-the-badge&logo=microsoft-edge&logo_Color=white"/> </a>
-<a href="https://www.frontendmentor.io/profile/PabloValentin94"> <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontend-mentor&logo_Color=white"/> </a>
-<a href="mailto:pablo23032006@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://www.dio.me/users/pablo23032006"> <img src="https://img.shields.io/badge/Digital%20Innovation%20One-FF007F?style=for-the-badge"/> </a>
+<a href="https://www.frontendmentor.io/profile/PabloValentin94"> <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge"/> </a>
+<a href="mailto:pablo23032006@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge"/> </a>
 
-<a href="mailto:pablo.valentin@etec.sp.gov.br"> <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
-<a href="https://replit.com/@PabloValentin2"> <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/> </a>
+<a href="mailto:pablo.valentin@fatec.sp.gov.br"> <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge"/> </a>
+<a href="https://replit.com/@PabloValentin2"> <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge"/> </a>
 
 </a>
 
