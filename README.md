@@ -102,16 +102,6 @@
 
 </br>
 
-<img src="https://github.com/PabloValentin94/PabloValentin94/assets/95161515/d147bb07-1dac-4ed6-acfb-8b60ff2f0d35"/>
-
-</a>
-
-#
-
-<a href="https://github.com/PabloValentin94">
-
-</br>
-
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPabloValentin94&s=60&c=FFFF00&bg=00000000&no=1&ff=digi&tb=Quantidade%20de%20Visitas%3A+"/>
   
 <picture>
