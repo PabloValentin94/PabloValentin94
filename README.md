@@ -68,7 +68,7 @@
 <a href="https://www.linkedin.com/in/pablo-valentin/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/> </a>
 
 <a href="http://m.me/pablo.valentim.14"> <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge"/> </a>
-<a href="https://contate.me/PabloValentin"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge"/> </a>
+<a href="https://contate.me/5514991596481"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge"/> </a>
 <a href="https://www.youtube.com/@Valentin-94"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge"/> </a>
 
 <a href="https://www.dio.me/users/pablo23032006"> <img src="https://img.shields.io/badge/Digital%20Innovation%20One-FF007F?style=for-the-badge"/> </a>
