@@ -1,8 +1,8 @@
-# 👦🏻 Pablo Valentin
+# 👦🏻 Pablo Valentin | Software Developer
 
 Hello, I am a front-end developer, currently studying at Fatec Jahu.
 
-## 📱 Contact Methods and Social Medias
+## 📞 Contact Methods and Social Medias
 
 <a href="https://github.com/PabloValentin94/PabloValentin94">
     <a href="mailto:pablo23032006@gmail.com">
@@ -40,8 +40,8 @@ Hello, I am a front-end developer, currently studying at Fatec Jahu.
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
-    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS"/>
 </a>
 
 ## 🔧 Tools
