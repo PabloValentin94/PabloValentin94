@@ -27,6 +27,7 @@ Hello, I am a front-end developer, currently studying at Fatec Jahu.
 <a href="https://github.com/PabloValentin94/PabloValentin94">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=ED8B00" alt="Java"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
@@ -38,6 +39,7 @@ Hello, I am a front-end developer, currently studying at Fatec Jahu.
 
 <a href="https://github.com/PabloValentin94/PabloValentin94">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="DotNet"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
     <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -57,13 +59,6 @@ Hello, I am a front-end developer, currently studying at Fatec Jahu.
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
     <img src="https://img.shields.io/badge/Windows-003399?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</a>
-
-## 📌 GitHub Stats
-
-<a href="https://github.com/PabloValentin94/PabloValentin94">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PabloValentin94&show_icons=true&bg_color=30,011F4B,03396C,005B96,6497B1,B3CDE0&title_color=ffff00&text_color=ffffff&icon_color=ffff00&hide_border=true&count_private=true&include_all_commits=false"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloValentin94&layout=compact&bg_color=30,011F4B,03396C,005B96,6497B1,B3CDE0&title_color=ffff00&text_color=ffffff&hide_border=true&langs_count=10"/>
 </a>
 
 <!--
